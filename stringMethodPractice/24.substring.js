@@ -21,4 +21,13 @@ console.log(a.substring(0,25)); // My favourite language is
 console.log(a.substring(24,35)); //  Javascript
 console.log(a.substring(12,25)); //  language is 
 
-
+const n = "Rose , Lily , Lotus , marigold , sunflower , daisy";
+console.log(n.substring(0,4));
+console.log(n.substring(7,11));
+console.log(n.substring(14,19));
+console.log(n.substring(22,30));
+console.log(n.substring(33,42));
+console.log(n.substring(45,50));
+console.log(n.substring(0,11));
+console.log(n.substring(14,30));
+console.log(n.substring(33,50));
