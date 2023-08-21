@@ -12,5 +12,9 @@ The trim() method does not change the original string.
 
 
 
-const n = " Rose                        ";
+const n = "            Rose                        ";
 console.log(n.trim()); // Rose
+
+
+const m = "                                  javascript          makes     easy    to work on webbrowers!                           ";
+console.log(m.trim()); // javascript          makes     easy    to work on webbrowers!

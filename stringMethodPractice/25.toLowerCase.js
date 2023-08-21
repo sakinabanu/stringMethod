@@ -13,3 +13,7 @@ The toLowerCase() method does not change the original string.
 
 const a = "MY FAVOURITE LANGUAGE IS JAVASCRIPT."
 console.log(a.toLowerCase()); // my favourite language is javascript.
+
+
+const b = "I WANT LOWER CASE FONT"
+console.log(b.toLowerCase()); // i want lower case font
